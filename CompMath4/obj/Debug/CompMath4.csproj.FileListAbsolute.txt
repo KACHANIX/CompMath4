@@ -1,0 +1,10 @@
+c:\users\skoch\source\repos\CompMath4\CompMath4\bin\Debug\CompMath4.exe.config
+c:\users\skoch\source\repos\CompMath4\CompMath4\bin\Debug\CompMath4.exe
+c:\users\skoch\source\repos\CompMath4\CompMath4\bin\Debug\CompMath4.pdb
+c:\users\skoch\source\repos\CompMath4\CompMath4\obj\Debug\CompMath4.csprojResolveAssemblyReference.cache
+c:\users\skoch\source\repos\CompMath4\CompMath4\obj\Debug\CompMath4.Properties.Resources.resources
+c:\users\skoch\source\repos\CompMath4\CompMath4\obj\Debug\CompMath4.csproj.GenerateResource.Cache
+c:\users\skoch\source\repos\CompMath4\CompMath4\obj\Debug\CompMath4.csproj.CoreCompileInputs.cache
+c:\users\skoch\source\repos\CompMath4\CompMath4\obj\Debug\CompMath4.exe
+c:\users\skoch\source\repos\CompMath4\CompMath4\obj\Debug\CompMath4.pdb
+c:\users\skoch\source\repos\CompMath4\CompMath4\obj\Debug\CompMath3.Form1.resources
